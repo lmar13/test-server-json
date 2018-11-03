@@ -1,0 +1,184 @@
+{
+    "solutions": [{
+            "id": 1,
+            "name": "solution one",
+            "groupName": "Group one",
+            "group": {
+                "id": "1",
+                "name": "Group one"
+            }
+        },
+        {
+            "id": 2,
+            "name": "solution two",
+            "groupName": "Group two",
+            "group": {
+                "id": "2",
+                "name": "Group two"
+            }
+        },
+        {
+            "id": 3,
+            "name": "solution three",
+            "groupName": "Group three",
+            "group": {
+                "id": "3",
+                "name": "Group three"
+            }
+        },
+        {
+            "id": 4,
+            "name": "solution four",
+            "groupName": "Group four",
+            "group": {
+                "id": "4",
+                "name": "Group four"
+            }
+        },
+        {
+            "id": 5,
+            "name": "solution five",
+            "groupName": "Group five",
+            "group": {
+                "id": "5",
+                "name": "Group five"
+            }
+        },
+        {
+            "id": 6,
+            "name": "solution six",
+            "groupName": "Group one",
+            "group": {
+                "id": "1",
+                "name": "Group one"
+            }
+        },
+        {
+            "id": 7,
+            "name": "solution seven",
+            "groupName": "Group two",
+            "group": {
+                "id": "2",
+                "name": "Group two"
+            }
+        },
+        {
+            "id": 8,
+            "name": "solution eight",
+            "groupName": "Group three",
+            "group": {
+                "id": "3",
+                "name": "Group three"
+            }
+        },
+        {
+            "id": 9,
+            "name": "solution nine",
+            "groupName": "Group four",
+            "group": {
+                "id": "4",
+                "name": "Group four"
+            }
+        },
+        {
+            "id": 10,
+            "name": "solution ten",
+            "groupName": "Group five",
+            "group": {
+                "id": "5",
+                "name": "Group five"
+            }
+        }
+    ],
+    "groups": [{
+            "id": 1,
+            "name": "Group one"
+        },
+        {
+            "id": 2,
+            "name": "Group two"
+        },
+        {
+            "id": 3,
+            "name": "Group three"
+        },
+        {
+            "id": 4,
+            "name": "Group four"
+        },
+        {
+            "id": 5,
+            "name": "Group five"
+        }
+    ],
+    "groupsRoles": [
+        "Guest",
+        "Developer",
+        "Master",
+        "Owner"
+    ],
+    "users": [{
+            "userName": "name_1",
+            "userSurname": "surname_1",
+            "userEmail": "email_1",
+            "userGroup": [1, 2, 3],
+            "userRoleInGroup": 3,
+            "isLoggedUser": true
+        },
+        {
+            "userName": "name_2",
+            "userSurname": "surname_2",
+            "userEmail": "email_2",
+            "userGroup": [2, 3, 4],
+            "userRoleInGroup": 0,
+            "isLoggedUser": false
+        },
+        {
+            "userName": "name_3",
+            "userSurname": "surname_3",
+            "userEmail": "email_3",
+            "userGroup": [3, 4, 5],
+            "userRoleInGroup": 1,
+            "isLoggedUser": false
+        },
+        {
+            "userName": "name_4",
+            "userSurname": "surname_4",
+            "userEmail": "email_4",
+            "userGroup": [5],
+            "userRoleInGroup": 2,
+            "isLoggedUser": false
+        },
+        {
+            "userName": "name_5",
+            "userSurname": "surname_5",
+            "userEmail": "email_5",
+            "userGroup": [3],
+            "userRoleInGroup": 1,
+            "isLoggedUser": false
+        }
+    ],
+    "login": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin123",
+            "role": "admin",
+            "token": "admin"
+        },
+        {
+            "id": 2,
+            "username": "testUserGuest",
+            "password": "testUserGuest123",
+            "role": "Guest",
+            "token": "testUserGuest"
+        },
+        {
+            "id": 3,
+            "username": "testUserDeveloper",
+            "password": "testUserDeveloper123",
+            "role": "Developer",
+            "token": "testUserDeveloper"
+        }
+    ]
+}

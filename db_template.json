@@ -1,0 +1,62 @@
+{
+    "solutions": [{
+        "id": "0-50",
+        "name": "random name",
+        "group": "what group? - random - 0 to 20"
+    }],
+    "groups": [{
+        "id": "0-20",
+        "name": "random name",
+        "solutions": ["random number of solutions from 0 to 10, solutions ids - 0-50"],
+        "owner": "random user name"
+    }],
+    "groupRole": ["Guest", "Developer", "Master", "Owner"],
+    "schedulers": [{
+        "id": "0-20",
+        "value": "random sth",
+        "solution": "random number 0-50"
+    }],
+    "files": [{
+        "js": [{
+                "id": 1,
+                "fileName": "process_random number",
+                "code": "random code"
+            },
+            {
+                "id": "",
+                "fileName": "file_random number 0-4",
+                "code": "random code"
+            }
+        ],
+        "python": [{
+            "id": "",
+            "fileName": "file_random number 0-5",
+            "code": "random code"
+        }],
+        "r": [{
+            "id": "",
+            "fileName": "file_random number 0-5",
+            "code": "random code"
+        }],
+        "public": [{
+            "id": "",
+            "fileName": "file_random number 0-5",
+            "code": "random code"
+        }]
+    }],
+    "dashboards": [{
+        "id": "0-20",
+        "data": {
+            "exe": "random table",
+            "plan": "random table",
+            "hist": "random table"
+        },
+        "group": "random number 0-20"
+    }],
+    "tables": [{
+        "id": "0-20",
+        "name": "table_number 0-10",
+        "data": "random table",
+        "solution": "random number 0-50"
+    }]
+}

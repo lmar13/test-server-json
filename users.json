@@ -1,0 +1,254 @@
+{
+    "users": [{
+        "name": "AdminName",
+        "surname": "AdminSurname",
+        "email": "admin@example.com",
+        "systemRole": "Admin",
+        "userGroup": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100],
+        "userRoleInGroup": 2,
+        "login": {
+            "username": "admin",
+            "password": "asd"
+        }
+    }, {
+        "id": 1,
+        "name": "Mateo",
+        "surname": "Haag",
+        "email": "Candido75@example.org",
+        "systemRole": "User",
+        "userGroup": [98],
+        "userRoleInGroup": 3,
+        "login": {
+            "username": "Floy51",
+            "password": "HmnnY2f6ExVMy6G"
+        }
+    }, {
+        "id": 2,
+        "name": "Adele",
+        "surname": "Kertzmann",
+        "email": "Eve.Leuschke@example.com",
+        "systemRole": "User",
+        "userGroup": [65],
+        "userRoleInGroup": 2,
+        "login": {
+            "username": "Karson44",
+            "password": "NRCGuDV9ne0h1Sb"
+        }
+    }, {
+        "id": 3,
+        "name": "Miracle",
+        "surname": "Nolan",
+        "email": "Lucie.Reilly73@example.org",
+        "systemRole": "User",
+        "userGroup": [83],
+        "userRoleInGroup": 1,
+        "login": {
+            "username": "Ari.Fahey0",
+            "password": "XhDK0UtcbPjJ_vA"
+        }
+    }, {
+        "id": 4,
+        "name": "Edmond",
+        "surname": "Collins",
+        "email": "Delilah62@example.net",
+        "systemRole": "User",
+        "userGroup": [13],
+        "userRoleInGroup": 3,
+        "login": {
+            "username": "Susie70",
+            "password": "AjvfJPPzbEYwJ4B"
+        }
+    }, {
+        "id": 5,
+        "name": "Eric",
+        "surname": "O'Kon",
+        "email": "Mathew_Muller85@example.net",
+        "systemRole": "User",
+        "userGroup": [20],
+        "userRoleInGroup": 2,
+        "login": {
+            "username": "Jamil29",
+            "password": "qZHX9q3TFSmyB6T"
+        }
+    }, {
+        "id": 6,
+        "name": "Westley",
+        "surname": "Gaylord",
+        "email": "Katrina_Gutmann46@example.org",
+        "systemRole": "User",
+        "userGroup": [84],
+        "userRoleInGroup": 0,
+        "login": {
+            "username": "Cindy.Glover60",
+            "password": "cwHKw82D9zMw_0K"
+        }
+    }, {
+        "id": 7,
+        "name": "Hilbert",
+        "surname": "Kautzer",
+        "email": "Roman.Jones88@example.net",
+        "systemRole": "User",
+        "userGroup": [8],
+        "userRoleInGroup": 3,
+        "login": {
+            "username": "Mary.Willms",
+            "password": "4MNghV4u1Rb3a7r"
+        }
+    }, {
+        "id": 8,
+        "name": "Aida",
+        "surname": "Stark",
+        "email": "Marianne11@example.net",
+        "systemRole": "User",
+        "userGroup": [39],
+        "userRoleInGroup": 3,
+        "login": {
+            "username": "Haylie.Price30",
+            "password": "UqDTn2fS2Dpw43l"
+        }
+    }, {
+        "id": 9,
+        "name": "Lucius",
+        "surname": "Ankunding",
+        "email": "Elise44@example.net",
+        "systemRole": "User",
+        "userGroup": [90],
+        "userRoleInGroup": 0,
+        "login": {
+            "username": "Jalyn.Block83",
+            "password": "_zDZLMjB7tbMPl6"
+        }
+    }, {
+        "id": 10,
+        "name": "Idella",
+        "surname": "Hagenes",
+        "email": "Jack.Lowe@example.com",
+        "systemRole": "User",
+        "userGroup": [89],
+        "userRoleInGroup": 2,
+        "login": {
+            "username": "Nigel41",
+            "password": "ruWcKCBNhp_Mb7K"
+        }
+    }, {
+        "id": 11,
+        "name": "Horace",
+        "surname": "McCullough",
+        "email": "Mylene.Turner93@example.com",
+        "systemRole": "User",
+        "userGroup": [0],
+        "userRoleInGroup": 4,
+        "login": {
+            "username": "Lessie39",
+            "password": "THegd_w7z3oQemP"
+        }
+    }, {
+        "id": 12,
+        "name": "Alison",
+        "surname": "Ferry",
+        "email": "Oceane47@example.net",
+        "systemRole": "User",
+        "userGroup": [9],
+        "userRoleInGroup": 0,
+        "login": {
+            "username": "Rosemarie53",
+            "password": "3DFKeU_9L93yg08"
+        }
+    }, {
+        "id": 13,
+        "name": "Tristin",
+        "surname": "Bauch",
+        "email": "Eloy_Welch50@example.net",
+        "systemRole": "User",
+        "userGroup": [47],
+        "userRoleInGroup": 3,
+        "login": {
+            "username": "Jeffry_Sipes11",
+            "password": "68Ko10927y73Nvy"
+        }
+    }, {
+        "id": 14,
+        "name": "Sibyl",
+        "surname": "Prohaska",
+        "email": "Myrtie.Schowalter24@example.net",
+        "systemRole": "User",
+        "userGroup": [60],
+        "userRoleInGroup": 3,
+        "login": {
+            "username": "Kristoffer.Olson",
+            "password": "bc9Me2P6PFYy22r"
+        }
+    }, {
+        "id": 15,
+        "name": "Howard",
+        "surname": "Bogisich",
+        "email": "Rowan_Greenholt9@example.org",
+        "systemRole": "User",
+        "userGroup": [0],
+        "userRoleInGroup": 1,
+        "login": {
+            "username": "Alexandre.Graham98",
+            "password": "PI4D2opuwyiqS5a"
+        }
+    }, {
+        "id": 16,
+        "name": "Conrad",
+        "surname": "Rowe",
+        "email": "Trenton.Koelpin@example.com",
+        "systemRole": "User",
+        "userGroup": [40],
+        "userRoleInGroup": 4,
+        "login": {
+            "username": "Luther20",
+            "password": "cpVZDiN6R1KW3Cc"
+        }
+    }, {
+        "id": 17,
+        "name": "Melyssa",
+        "surname": "Mills",
+        "email": "Davin_Dooley@example.org",
+        "systemRole": "User",
+        "userGroup": [34],
+        "userRoleInGroup": 4,
+        "login": {
+            "username": "Lindsey96",
+            "password": "v8VvctObzHP9O6M"
+        }
+    }, {
+        "id": 18,
+        "name": "Maximillia",
+        "surname": "Miller",
+        "email": "Jana26@example.net",
+        "systemRole": "User",
+        "userGroup": [41],
+        "userRoleInGroup": 1,
+        "login": {
+            "username": "Carleton.Champlin",
+            "password": "Ud9grQk7tfPTi4F"
+        }
+    }, {
+        "id": 19,
+        "name": "Maximillian",
+        "surname": "Marvin",
+        "email": "Emerson89@example.net",
+        "systemRole": "User",
+        "userGroup": [59],
+        "userRoleInGroup": 1,
+        "login": {
+            "username": "Annabell80",
+            "password": "uLQsMifm5mGiah8"
+        }
+    }, {
+        "id": 20,
+        "name": "Orlo",
+        "surname": "VonRueden",
+        "email": "Reva.Fisher48@example.org",
+        "systemRole": "User",
+        "userGroup": [30],
+        "userRoleInGroup": 4,
+        "login": {
+            "username": "Bailee43",
+            "password": "2hMdThFQFW1o_uS"
+        }
+    }]
+}
