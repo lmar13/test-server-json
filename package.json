@@ -15,6 +15,6 @@
   "dependencies": {
     "faker": "^4.1.0",
     "json-server": "^0.15.0",
-    "jsonwebtoken": "^8.3.0"
+    "jsonwebtoken": "^9.0.0"
   }
 }
